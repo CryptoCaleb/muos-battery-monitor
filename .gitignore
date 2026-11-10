@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+BatteryMonitor/data/
+BatteryMonitor/last_run.log
+*.tmp
+dist/
